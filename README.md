@@ -10,12 +10,13 @@ task1 on Mechanical department
 
 
 **For rotate leg calculation, Although Blender has a measurement tool, it is not perfect, so I used websites that provide exact measurements instead**
+
 1-	https://www.omnicalculator.com/math/trigonometry
 
 ![image](https://user-images.githubusercontent.com/109454900/180440512-3cef9a21-e34e-47ba-ac39-2831f2ae1ad6.png)
 
 2-	http://cossincalc.com/
 
-![image](https://user-images.githubusercontent.com/109454900/180440577-66c0f524-db02-4f99-b72e-0eb6d6b4cb72.png
+![image](https://user-images.githubusercontent.com/109454900/180440577-66c0f524-db02-4f99-b72e-0eb6d6b4cb72.png)
 
 Hence, we can conclude that the robotic leg has a 22.2° degree range of motion.
